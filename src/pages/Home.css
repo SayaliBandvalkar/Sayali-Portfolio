@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0f0f0f;
+  color: white;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 0 50px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.text-side {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 40px;
+}
+
+.hello {
+  color: #ff4a57;
+  font-size: 1.2rem;
+  margin: 0;
+  font-weight: bold;
+}
+
+.main-heading {
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.description {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #ccc;
+  max-width: 600px;
+}
+
+.buttons {
+  margin-top: 25px;
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  background-color: #ff4a57;
+  color: white;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 50px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.btn.view {
+  margin-right: 20px;
+}
+
+.btn:hover {
+  background-color: #ff2e44;
+}
+
+.image-side {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.image-side img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.dynamic-title {
+  font-size: 2rem;
+  color: #ff4a57;
+  margin: 10px 0 20px;
+  height: 40px;
+  overflow: hidden;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive layout for small devices */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 30px 20px;
+  }
+
+  .text-side {
+    padding: 0;
+    margin-bottom: 30px;
+  }
+
+  .image-side img {
+    max-width: 80%;
+  }
+
+  .buttons {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .btn {
+    margin-right: 0;
+    width: 80%;
+  }
+}
+

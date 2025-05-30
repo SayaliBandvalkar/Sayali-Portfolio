@@ -1,0 +1,32 @@
+.footer {
+  background: radial-gradient( #000000);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  margin: 0;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100%;
+  padding: 0 40px;
+  margin-top: 10px;
+}
+
+.social-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  flex: 1;
+  text-align: center;
+}
+
+.social-links a:first-child {
+  text-align: left;
+}
+
+.social-links a:last-child {
+  text-align: right;
+}
