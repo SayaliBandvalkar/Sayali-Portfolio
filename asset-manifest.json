@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Sayali-Portfolio/static/css/main.6b3a59af.css",
-    "main.js": "/Sayali-Portfolio/static/js/main.b273557b.js",
-    "static/media/profile.png": "/Sayali-Portfolio/static/media/profile.0c4f55a6388784e89bc7.png",
-    "static/media/sentiment-analysis.png": "/Sayali-Portfolio/static/media/sentiment-analysis.ca4ee69b76939a0a5aed.png",
-    "static/media/powerbi.jpg": "/Sayali-Portfolio/static/media/powerbi.790563667ee16c6f609f.jpg",
-    "static/media/excel.jpg": "/Sayali-Portfolio/static/media/excel.4789cabf213625f56243.jpg",
-    "static/media/ethicalhacking.jpg": "/Sayali-Portfolio/static/media/ethicalhacking.2bc849be80de652583d5.jpg",
-    "static/media/blockchain.jpg": "/Sayali-Portfolio/static/media/blockchain.081dc28d05b6fafcb6f9.jpg",
-    "static/media/data-analytics.jpg": "/Sayali-Portfolio/static/media/data-analytics.082ac4c5ffc9642ae200.jpg",
-    "static/media/To-Do-List.png": "/Sayali-Portfolio/static/media/To-Do-List.a162c1dff89b95d0d612.png",
-    "static/media/responsive-portfolio.png": "/Sayali-Portfolio/static/media/responsive-portfolio.dec58b8de2e20d9957ab.png",
-    "static/media/sayali_resume_DS.pdf": "/Sayali-Portfolio/static/media/sayali_resume_DS.7607fe6fcd36a7d19c5d.pdf",
-    "static/media/Logo.png": "/Sayali-Portfolio/static/media/Logo.3b08b59c3f3c7a0e4205.png",
-    "index.html": "/Sayali-Portfolio/index.html",
-    "main.6b3a59af.css.map": "/Sayali-Portfolio/static/css/main.6b3a59af.css.map",
-    "main.b273557b.js.map": "/Sayali-Portfolio/static/js/main.b273557b.js.map"
+    "main.css": "/Sayali-Portfolio-for-Micro-IT/static/css/main.6b3a59af.css",
+    "main.js": "/Sayali-Portfolio-for-Micro-IT/static/js/main.7caf2968.js",
+    "static/media/profile.png": "/Sayali-Portfolio-for-Micro-IT/static/media/profile.0c4f55a6388784e89bc7.png",
+    "static/media/sentiment-analysis.png": "/Sayali-Portfolio-for-Micro-IT/static/media/sentiment-analysis.ca4ee69b76939a0a5aed.png",
+    "static/media/powerbi.jpg": "/Sayali-Portfolio-for-Micro-IT/static/media/powerbi.790563667ee16c6f609f.jpg",
+    "static/media/excel.jpg": "/Sayali-Portfolio-for-Micro-IT/static/media/excel.4789cabf213625f56243.jpg",
+    "static/media/ethicalhacking.jpg": "/Sayali-Portfolio-for-Micro-IT/static/media/ethicalhacking.2bc849be80de652583d5.jpg",
+    "static/media/blockchain.jpg": "/Sayali-Portfolio-for-Micro-IT/static/media/blockchain.081dc28d05b6fafcb6f9.jpg",
+    "static/media/data-analytics.jpg": "/Sayali-Portfolio-for-Micro-IT/static/media/data-analytics.082ac4c5ffc9642ae200.jpg",
+    "static/media/To-Do-List.png": "/Sayali-Portfolio-for-Micro-IT/static/media/To-Do-List.a162c1dff89b95d0d612.png",
+    "static/media/responsive-portfolio.png": "/Sayali-Portfolio-for-Micro-IT/static/media/responsive-portfolio.dec58b8de2e20d9957ab.png",
+    "static/media/sayali_resume_DS.pdf": "/Sayali-Portfolio-for-Micro-IT/static/media/sayali_resume_DS.7607fe6fcd36a7d19c5d.pdf",
+    "static/media/Logo.png": "/Sayali-Portfolio-for-Micro-IT/static/media/Logo.3b08b59c3f3c7a0e4205.png",
+    "index.html": "/Sayali-Portfolio-for-Micro-IT/index.html",
+    "main.6b3a59af.css.map": "/Sayali-Portfolio-for-Micro-IT/static/css/main.6b3a59af.css.map",
+    "main.7caf2968.js.map": "/Sayali-Portfolio-for-Micro-IT/static/js/main.7caf2968.js.map"
   },
   "entrypoints": [
     "static/css/main.6b3a59af.css",
-    "static/js/main.b273557b.js"
+    "static/js/main.7caf2968.js"
   ]
 }
