@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sayali-Portfolio-for-Micro-IT/static/css/main.6b3a59af.css",
-    "main.js": "/Sayali-Portfolio-for-Micro-IT/static/js/main.6c734136.js",
+    "main.js": "/Sayali-Portfolio-for-Micro-IT/static/js/main.44d6d2f4.js",
     "static/media/profile.png": "/Sayali-Portfolio-for-Micro-IT/static/media/profile.0c4f55a6388784e89bc7.png",
     "static/media/sentiment-analysis.png": "/Sayali-Portfolio-for-Micro-IT/static/media/sentiment-analysis.ca4ee69b76939a0a5aed.png",
     "static/media/powerbi.jpg": "/Sayali-Portfolio-for-Micro-IT/static/media/powerbi.790563667ee16c6f609f.jpg",
@@ -15,10 +15,10 @@
     "static/media/Logo.png": "/Sayali-Portfolio-for-Micro-IT/static/media/Logo.3b08b59c3f3c7a0e4205.png",
     "index.html": "/Sayali-Portfolio-for-Micro-IT/index.html",
     "main.6b3a59af.css.map": "/Sayali-Portfolio-for-Micro-IT/static/css/main.6b3a59af.css.map",
-    "main.6c734136.js.map": "/Sayali-Portfolio-for-Micro-IT/static/js/main.6c734136.js.map"
+    "main.44d6d2f4.js.map": "/Sayali-Portfolio-for-Micro-IT/static/js/main.44d6d2f4.js.map"
   },
   "entrypoints": [
     "static/css/main.6b3a59af.css",
-    "static/js/main.6c734136.js"
+    "static/js/main.44d6d2f4.js"
   ]
 }
