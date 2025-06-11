@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sayali-Portfolio/static/css/main.6b3a59af.css",
-    "main.js": "/Sayali-Portfolio/static/js/main.ee75e6a2.js",
+    "main.js": "/Sayali-Portfolio/static/js/main.29c2380b.js",
     "static/media/profile.png": "/Sayali-Portfolio/static/media/profile.0c4f55a6388784e89bc7.png",
     "static/media/sentiment-analysis.png": "/Sayali-Portfolio/static/media/sentiment-analysis.ca4ee69b76939a0a5aed.png",
     "static/media/powerbi.jpg": "/Sayali-Portfolio/static/media/powerbi.790563667ee16c6f609f.jpg",
@@ -12,13 +12,14 @@
     "static/media/To-Do-List.png": "/Sayali-Portfolio/static/media/To-Do-List.a162c1dff89b95d0d612.png",
     "static/media/responsive-portfolio.png": "/Sayali-Portfolio/static/media/responsive-portfolio.dec58b8de2e20d9957ab.png",
     "static/media/sayali_resume_DS.pdf": "/Sayali-Portfolio/static/media/sayali_resume_DS.7607fe6fcd36a7d19c5d.pdf",
+    "static/media/MicroIT.jpg": "/Sayali-Portfolio/static/media/MicroIT.7822ed7ce4cf53bcecc1.jpg",
     "static/media/Logo.png": "/Sayali-Portfolio/static/media/Logo.3b08b59c3f3c7a0e4205.png",
     "index.html": "/Sayali-Portfolio/index.html",
     "main.6b3a59af.css.map": "/Sayali-Portfolio/static/css/main.6b3a59af.css.map",
-    "main.ee75e6a2.js.map": "/Sayali-Portfolio/static/js/main.ee75e6a2.js.map"
+    "main.29c2380b.js.map": "/Sayali-Portfolio/static/js/main.29c2380b.js.map"
   },
   "entrypoints": [
     "static/css/main.6b3a59af.css",
-    "static/js/main.ee75e6a2.js"
+    "static/js/main.29c2380b.js"
   ]
 }
