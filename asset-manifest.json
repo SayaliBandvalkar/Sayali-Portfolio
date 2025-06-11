@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sayali-Portfolio/static/css/main.6b3a59af.css",
-    "main.js": "/Sayali-Portfolio/static/js/main.b0de71a0.js",
+    "main.js": "/Sayali-Portfolio/static/js/main.ee75e6a2.js",
     "static/media/profile.png": "/Sayali-Portfolio/static/media/profile.0c4f55a6388784e89bc7.png",
     "static/media/sentiment-analysis.png": "/Sayali-Portfolio/static/media/sentiment-analysis.ca4ee69b76939a0a5aed.png",
     "static/media/powerbi.jpg": "/Sayali-Portfolio/static/media/powerbi.790563667ee16c6f609f.jpg",
@@ -15,10 +15,10 @@
     "static/media/Logo.png": "/Sayali-Portfolio/static/media/Logo.3b08b59c3f3c7a0e4205.png",
     "index.html": "/Sayali-Portfolio/index.html",
     "main.6b3a59af.css.map": "/Sayali-Portfolio/static/css/main.6b3a59af.css.map",
-    "main.b0de71a0.js.map": "/Sayali-Portfolio/static/js/main.b0de71a0.js.map"
+    "main.ee75e6a2.js.map": "/Sayali-Portfolio/static/js/main.ee75e6a2.js.map"
   },
   "entrypoints": [
     "static/css/main.6b3a59af.css",
-    "static/js/main.b0de71a0.js"
+    "static/js/main.ee75e6a2.js"
   ]
 }
